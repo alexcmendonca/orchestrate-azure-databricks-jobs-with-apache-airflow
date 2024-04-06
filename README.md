@@ -6,7 +6,7 @@ Projeto visa fornecer suporte à empresas que importam produtos de diferentes pa
 Para atingir esse objetivo, o projeto realizará a construção e execução de um pipeline completo, utilizando as capacidades do Apache Airflow e do Databricks na nuvem Azure. A integração com a plataforma de comunicação interna Slack será aproveitada para o envio automático da tabela e dos gráficos, garantindo uma comunicação eficiente e centralizada dentro da equipe.
 
 ###### Imagem 1: Grid View - Visualização da execução do DAG
-<img src="/img/001-airflow-grid">
+<img src="/img/001-airflow-grid.png">
 
 
 ## 🖥️Desafios do Projeto
